@@ -11,4 +11,4 @@
 [https://www.youtube.com/watch?v=rkQ3-T82pkU&t=4240s](https://www.youtube.com/watch?v=rkQ3-T82pkU&t=4240s)
 
 Как устроен Domain-Driven Design
-[https://habr.com/ru/companies/oleg-bunin/articles/488010/}(https://habr.com/ru/companies/oleg-bunin/articles/488010/)
+[https://habr.com/ru/companies/oleg-bunin/articles/488010/](https://habr.com/ru/companies/oleg-bunin/articles/488010/)
