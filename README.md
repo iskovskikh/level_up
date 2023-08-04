@@ -12,3 +12,9 @@
 
 Как устроен Domain-Driven Design
 [https://habr.com/ru/companies/oleg-bunin/articles/488010/](https://habr.com/ru/companies/oleg-bunin/articles/488010/)
+
+(DDD) in Django
+[https://www.youtube.com/watch?v=t5DBiKsjvS4](https://www.youtube.com/watch?v=t5DBiKsjvS4)
+
+BUSINESS LOGIC IN DJANGO PYTHON
+[https://www.youtube.com/watch?v=t6qbY_Z02tk](https://www.youtube.com/watch?v=t6qbY_Z02tk)
