@@ -21,3 +21,6 @@ BUSINESS LOGIC IN DJANGO PYTHON
 
 Domain Driven Design Patterns in Python
 [https://www.youtube.com/watch?v=hv-LiKQgN90](https://www.youtube.com/watch?v=hv-LiKQgN90)
+
+Implementing Domain-Driven Design in Python Projects
+[https://www.w3computing.com/articles/implementing-domain-driven-design-in-python-projects/](https://www.w3computing.com/articles/implementing-domain-driven-design-in-python-projects/)
