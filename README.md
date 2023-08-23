@@ -7,6 +7,9 @@
 
 ## DDD
 
+Моделирование микросервисов с помощью Event storming
+[https://habr.com/ru/companies/oleg-bunin/articles/537862/](https://habr.com/ru/companies/oleg-bunin/articles/537862/)
+
 НЕ ООП ЕДИНЫ! Domain Driven Design на примере ХОЛОДИЛЬНИКА 
 [https://www.youtube.com/watch?v=rkQ3-T82pkU&t=4240s](https://www.youtube.com/watch?v=rkQ3-T82pkU&t=4240s)
 
