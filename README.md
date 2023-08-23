@@ -18,3 +18,6 @@
 
 BUSINESS LOGIC IN DJANGO PYTHON
 [https://www.youtube.com/watch?v=t6qbY_Z02tk](https://www.youtube.com/watch?v=t6qbY_Z02tk)
+
+Domain Driven Design Patterns in Python
+[https://www.youtube.com/watch?v=hv-LiKQgN90](https://www.youtube.com/watch?v=hv-LiKQgN90)
