@@ -33,3 +33,6 @@ Python Domain Driven Design (DDD) example project
 
 Многоликий DDD — Сергей Баранов
 [https://www.youtube.com/watch?v=NSN-NXfbEqM](https://www.youtube.com/watch?v=NSN-NXfbEqM)
+
+Как подружить REST API и концепцию DDD?
+[https://qna.habr.com/q/440398](https://qna.habr.com/q/440398)
