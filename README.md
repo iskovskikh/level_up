@@ -31,11 +31,11 @@ Implementing Domain-Driven Design in Python Projects
 Python Domain Driven Design (DDD) example project
 [https://github.com/pgorecki/python-ddd](https://github.com/pgorecki/python-ddd)
 
-Реализация методов Domain Driven Design в Python
-[https://www.youtube.com/watch?v=fmRz8uhcrPQ&list=PL6KC7wdHyOSZULcdxUOnqoBef8b0Dzw1X](https://www.youtube.com/watch?v=fmRz8uhcrPQ&list=PL6KC7wdHyOSZULcdxUOnqoBef8b0Dzw1X)
-
 Многоликий DDD — Сергей Баранов
 [https://www.youtube.com/watch?v=NSN-NXfbEqM](https://www.youtube.com/watch?v=NSN-NXfbEqM)
 
 Как подружить REST API и концепцию DDD?
 [https://qna.habr.com/q/440398](https://qna.habr.com/q/440398)
+
+Реализация методов Domain Driven Design в Python
+[https://www.youtube.com/watch?v=fmRz8uhcrPQ&list=PL6KC7wdHyOSZULcdxUOnqoBef8b0Dzw1X](https://www.youtube.com/watch?v=fmRz8uhcrPQ&list=PL6KC7wdHyOSZULcdxUOnqoBef8b0Dzw1X)
