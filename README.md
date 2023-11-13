@@ -34,6 +34,9 @@ Implementing Domain-Driven Design in Python Projects
 Python Domain Driven Design (DDD) example project
 [https://github.com/pgorecki/python-ddd](https://github.com/pgorecki/python-ddd)
 
+Python Domain-Driven-Design(DDD) Example
+[https://github.com/qu3vipon/python-ddd](https://github.com/qu3vipon/python-ddd)
+
 Многоликий DDD — Сергей Баранов
 [https://www.youtube.com/watch?v=NSN-NXfbEqM](https://www.youtube.com/watch?v=NSN-NXfbEqM)
 
