@@ -48,3 +48,6 @@ Python Domain-Driven-Design(DDD) Example
 
 Вон Вернон - Реализация методов DDD - Глава 10 (Агрегаты)
 [https://www.youtube.com/watch?v=nKWtlOQJX8Y](https://www.youtube.com/watch?v=nKWtlOQJX8Y)
+
+Implementing Domain-Driven Design in Python Projects
+[https://www.w3computing.com/articles/implementing-domain-driven-design-in-python-projects/](https://www.w3computing.com/articles/implementing-domain-driven-design-in-python-projects/)
