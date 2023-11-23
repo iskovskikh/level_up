@@ -51,3 +51,6 @@ Python Domain-Driven-Design(DDD) Example
 
 Implementing Domain-Driven Design in Python Projects
 [https://www.w3computing.com/articles/implementing-domain-driven-design-in-python-projects/](https://www.w3computing.com/articles/implementing-domain-driven-design-in-python-projects/)
+
+Domain Driven Design просто о сложном
+[https://slides.silverfire.me/2017/yiiconf-ddd](https://slides.silverfire.me/2017/yiiconf-ddd)
