@@ -55,6 +55,9 @@ Implementing Domain-Driven Design in Python Projects
 Domain Driven Design просто о сложном
 [https://slides.silverfire.me/2017/yiiconf-ddd](https://slides.silverfire.me/2017/yiiconf-ddd)
 
+Mini Course #1 Clean Architecture + CQRS
+[https://www.youtube.com/watch?v=NzcZcim9tp8](https://www.youtube.com/watch?v=NzcZcim9tp8)
+
 ## Паттерн спецификация
 
 Specification pattern in Python
