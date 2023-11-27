@@ -54,3 +54,6 @@ Implementing Domain-Driven Design in Python Projects
 
 Domain Driven Design просто о сложном
 [https://slides.silverfire.me/2017/yiiconf-ddd](https://slides.silverfire.me/2017/yiiconf-ddd)
+
+Specification pattern in Python
+[https://douwevandermeij.medium.com/specification-pattern-in-python-ff2bd0b603f6](https://douwevandermeij.medium.com/specification-pattern-in-python-ff2bd0b603f6)
