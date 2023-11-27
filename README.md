@@ -66,6 +66,10 @@ Specification pattern in Python
 Паттерн спецификация в питоне
 [https://www.youtube.com/watch?v=akHi_2IiclQ](https://www.youtube.com/watch?v=akHi_2IiclQ)
 
+## DI
+
+Python dependency injector
+[https://www.youtube.com/watch?v=K5KokTpBF38](https://www.youtube.com/watch?v=K5KokTpBF38)
 
 ## CQRS
 
