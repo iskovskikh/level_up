@@ -62,3 +62,9 @@ Specification pattern in Python
 
 Паттерн спецификация в питоне
 [https://www.youtube.com/watch?v=akHi_2IiclQ](https://www.youtube.com/watch?v=akHi_2IiclQ)
+
+
+## CQRS
+
+CQRS Гексагональная архитектура
+[https://www.youtube.com/watch?v=C0Znv2eF8cM](https://www.youtube.com/watch?v=C0Znv2eF8cM)
