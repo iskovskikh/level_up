@@ -75,3 +75,6 @@ Python dependency injector
 
 CQRS Гексагональная архитектура
 [https://www.youtube.com/watch?v=C0Znv2eF8cM](https://www.youtube.com/watch?v=C0Znv2eF8cM)
+
+А какие виды CQRS вы знаете?
+[https://www.youtube.com/watch?v=TnS6PwxHcLg](https://www.youtube.com/watch?v=TnS6PwxHcLg)
