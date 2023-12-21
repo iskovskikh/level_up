@@ -58,6 +58,9 @@ Domain Driven Design просто о сложном
 Mini Course #1 Clean Architecture + CQRS
 [https://www.youtube.com/watch?v=NzcZcim9tp8](https://www.youtube.com/watch?v=NzcZcim9tp8)
 
+Николай Хитров. Не пихайте свою java в мой python!
+[https://www.youtube.com/watch?v=J941UdT2neA](https://www.youtube.com/watch?v=J941UdT2neA)
+
 ## Паттерн спецификация
 
 Specification pattern in Python
