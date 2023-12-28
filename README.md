@@ -81,3 +81,8 @@ CQRS Гексагональная архитектура
 
 А какие виды CQRS вы знаете?
 [https://www.youtube.com/watch?v=TnS6PwxHcLg](https://www.youtube.com/watch?v=TnS6PwxHcLg)
+
+## Django
+
+Фёдор Борщёв — Воркшоп «Современный DX в Django, часть 1»
+[https://www.youtube.com/watch?v=Zsr4aWKkdOc](https://www.youtube.com/watch?v=Zsr4aWKkdOc)
