@@ -86,3 +86,8 @@ CQRS Гексагональная архитектура
 
 Фёдор Борщёв — Воркшоп «Современный DX в Django, часть 1»
 [https://www.youtube.com/watch?v=Zsr4aWKkdOc](https://www.youtube.com/watch?v=Zsr4aWKkdOc)
+
+## Python
+
+Python декораторы на максималках
+[https://habr.com/ru/articles/750312/](https://habr.com/ru/articles/750312/)
