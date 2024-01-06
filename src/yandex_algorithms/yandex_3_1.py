@@ -3,10 +3,17 @@
 # таких что A + B = X или вернуть пару 0, 0 если такой пары нет
 
 def find_summ(n: list[int], x: int) -> tuple[int, int]:
-    for index, a in enumerate(n):
-        for b in n[index+1:]:
-            print(a, b, "==", x)
-            if a + b == x:
-                return a, b
+    # решение за O(N^2):
+    # for index, a in enumerate(n):
+    #     for b in n[index+1:]:
+    #         if a + b == x:
+    #             return a, b
+    # return 0, 0
 
+    # решение за O(N)
+    checked_set = set()
+    for current in n:
+        if x - current in checked_set:
+            return x - current, current
+        checked_set.add(current)
     return 0, 0
