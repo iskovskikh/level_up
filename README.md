@@ -13,6 +13,8 @@
 
 Банда четырёх (Gang of Four, сокращённо GoF) Design Patterns
 
+# ===========================
+
 Собеседование Python. Разбор вопросов
 [https://www.youtube.com/watch?v=BoazgBZ4D7k](https://www.youtube.com/watch?v=BoazgBZ4D7k)
 
