@@ -1,5 +1,13 @@
 # level_up
 
+Книги:
+[https://drive.google.com/drive/folders/1g9QLVFNMASh13XEE_ahYfVsk9E2UZb00?usp=sharing](https://drive.google.com/drive/folders/1g9QLVFNMASh13XEE_ahYfVsk9E2UZb00?usp=sharing)
+
+# Алгоритмы
+
+Лекция 1. 2 семестр. Алгоритмы сортировки данных
+[https://www.youtube.com/watch?v=KK6tkmk3OAs](https://www.youtube.com/watch?v=KK6tkmk3OAs)
+
 Каталог с паттернами:
 [https://refactoring.guru/ru/design-patterns/catalog](https://refactoring.guru/ru/design-patterns/catalog)
 
