@@ -71,6 +71,15 @@ Mini Course #1 Clean Architecture + CQRS
 Николай Хитров. Не пихайте свою java в мой python!
 [https://www.youtube.com/watch?v=J941UdT2neA](https://www.youtube.com/watch?v=J941UdT2neA)
 
+Как сменить технологию и не закопаться в рефакторинге: опыт внедрения DDD в проект на FastAPI — Часть 1
+[https://habr.com/ru/articles/833720/](https://habr.com/ru/articles/833720/)
+
+Как сменить технологию и не закопаться в рефакторинге: опыт внедрения DDD в проект на FastAPI — Часть 2
+[https://habr.com/ru/articles/838188/](https://habr.com/ru/articles/838188/)
+
+Architecture Patterns with Python
+[https://www.cosmicpython.com/book/preface.html](https://www.cosmicpython.com/book/preface.html)
+
 ## Паттерн спецификация
 
 Specification pattern in Python
