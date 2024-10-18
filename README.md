@@ -80,6 +80,9 @@ Mini Course #1 Clean Architecture + CQRS
 Architecture Patterns with Python
 [https://www.cosmicpython.com/book/preface.html](https://www.cosmicpython.com/book/preface.html)
 
+ddd_test_app
+[https://gitverse.ru/freestalkel/ddd_test_app](https://gitverse.ru/freestalkel/ddd_test_app)
+
 ## Паттерн спецификация
 
 Specification pattern in Python
