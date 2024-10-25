@@ -83,6 +83,9 @@ Architecture Patterns with Python
 ddd_test_app
 [https://gitverse.ru/freestalkel/ddd_test_app](https://gitverse.ru/freestalkel/ddd_test_app)
 
+Python — Unit of work
+[https://habr.com/ru/articles/808817/](https://habr.com/ru/articles/808817/)
+
 ## Паттерн спецификация
 
 Specification pattern in Python
