@@ -111,3 +111,9 @@ CQRS Гексагональная архитектура
 
 Фёдор Борщёв — Воркшоп «Современный DX в Django, часть 1»
 [https://www.youtube.com/watch?v=Zsr4aWKkdOc](https://www.youtube.com/watch?v=Zsr4aWKkdOc)
+
+
+# Multiprocessing
+
+superfastpython.com
+[https://superfastpython.com/learning-paths/](https://superfastpython.com/learning-paths/)
