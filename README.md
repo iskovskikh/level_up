@@ -118,6 +118,10 @@ CQRS Гексагональная архитектура
 superfastpython.com
 [https://superfastpython.com/learning-paths/](https://superfastpython.com/learning-paths/)
 
+# Общее
+Как устроен PYTHON
+[https://www.youtube.com/watch?v=QIfgGycBGfg](https://www.youtube.com/watch?v=QIfgGycBGfg)
+
 # ML
 https://habr.com/ru/articles/704592/
 
