@@ -118,6 +118,9 @@ CQRS Гексагональная архитектура
 superfastpython.com
 [https://superfastpython.com/learning-paths/](https://superfastpython.com/learning-paths/)
 
+Почему multiprocessing.Queue() тормозит и как обойти это с помощью shared_memory
+[https://habr.com/ru/companies/otus/articles/913200/](https://habr.com/ru/companies/otus/articles/913200/)
+
 # Общее
 Как устроен PYTHON
 [https://www.youtube.com/watch?v=QIfgGycBGfg](https://www.youtube.com/watch?v=QIfgGycBGfg)
